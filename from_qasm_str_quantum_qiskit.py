@@ -8,7 +8,7 @@
     Basado en el libro Quantum Development with Qiskit de O'Reilly.
 """
 
-#Read more here: https://learn.qiskit.org/course/ch-algorithms/shors-algorithm
+#Read more here: https://github.com/qiskit-community/qiskit-pocket-guide
 
 #TO INSTALL:
 #pip3 install qiskit
