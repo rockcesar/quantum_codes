@@ -5,7 +5,7 @@
     Bajo licencia GPLv3.
     Puede ser modificado, copiado y distribuido.
     Se desarrolló con fines educativos.
-    Del libro Quantum Development with Qiskit de O'Reilly
+    Basado en el libro Quantum Development with Qiskit de O'Reilly.
 """
 
 #Read more here: https://learn.qiskit.org/course/ch-algorithms/shors-algorithm
